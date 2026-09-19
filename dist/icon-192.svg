@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <!-- dark rounded background -->
+  <rect width="192" height="192" rx="40" fill="#0a0a0a"/>
+  <!-- outer glow when "on" hint -->
+  <circle cx="96" cy="88" r="52" fill="#1a1800" opacity="0.6"/>
+  <!-- flashlight body -->
+  <rect x="80" y="102" width="32" height="40" rx="6" fill="#ffe066"/>
+  <!-- flashlight head trapezoid -->
+  <path d="M68 102 L80 72 L112 72 L124 102 Z" fill="#ffcc00"/>
+  <!-- lens ellipse -->
+  <ellipse cx="96" cy="72" rx="16" ry="6" fill="#fff9c4"/>
+  <!-- light beams -->
+  <line x1="80" y1="68" x2="64" y2="44" stroke="#fffde0" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <line x1="96" y1="64" x2="96" y2="38" stroke="#fffde0" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <line x1="112" y1="68" x2="128" y2="44" stroke="#fffde0" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <!-- body button -->
+  <rect x="88" y="120" width="16" height="10" rx="5" fill="#e6b800"/>
+  <!-- PRO badge -->
+  <rect x="60" y="152" width="72" height="22" rx="11" fill="#ff6b35"/>
+  <text x="96" y="167" text-anchor="middle" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" fill="white" letter-spacing="1">PRO™</text>
+</svg>

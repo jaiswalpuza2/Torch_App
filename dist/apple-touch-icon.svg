@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <!-- iOS rounds the corners itself, fill edge-to-edge -->
+  <rect width="180" height="180" fill="#0a0a0a"/>
+  <circle cx="90" cy="82" r="50" fill="#1a1800" opacity="0.55"/>
+  <rect x="74" y="96" width="32" height="40" rx="6" fill="#ffe066"/>
+  <path d="M62 96 L74 64 L106 64 L118 96 Z" fill="#ffcc00"/>
+  <ellipse cx="90" cy="64" rx="16" ry="6" fill="#fff9c4"/>
+  <line x1="74" y1="60" x2="58" y2="38" stroke="#fffde0" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <line x1="90" y1="56" x2="90" y2="32" stroke="#fffde0" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <line x1="106" y1="60" x2="122" y2="38" stroke="#fffde0" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <rect x="82" y="114" width="16" height="10" rx="5" fill="#e6b800"/>
+  <rect x="52" y="144" width="76" height="22" rx="11" fill="#ff6b35"/>
+  <text x="90" y="159" text-anchor="middle" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="800" fill="white" letter-spacing="1">PRO™</text>
+</svg>
